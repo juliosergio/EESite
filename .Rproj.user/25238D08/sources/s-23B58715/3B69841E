@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564618431505.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3B69841E",
+    "lastKnownWriteTime" : 1564761047,
+    "last_content_update" : 1564761047801,
+    "path" : "/media/checo/7B2C787106E895ED/EESite/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "6,20",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

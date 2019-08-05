@@ -5,12 +5,28 @@
     <link>/EESite/tags/</link>
       <atom:link href="/EESite/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/EESite/img/icon-192.png</url>
       <title>Tags</title>
       <link>/EESite/tags/</link>
     </image>
+    
+    <item>
+      <title>blog</title>
+      <link>/EESite/tags/blog/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/EESite/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prueba</title>
+      <link>/EESite/tags/prueba/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/EESite/tags/prueba/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Source Themes</title>

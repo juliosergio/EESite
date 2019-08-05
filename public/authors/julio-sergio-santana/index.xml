@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julio Sergio Santana | Hidrometeorología</title>
+    <link>/EESite/authors/julio-sergio-santana/</link>
+      <atom:link href="/EESite/authors/julio-sergio-santana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julio Sergio Santana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/EESite/img/icon-192.png</url>
+      <title>Julio Sergio Santana</title>
+      <link>/EESite/authors/julio-sergio-santana/</link>
+    </image>
+    
+    <item>
+      <title>Empezando prueba</title>
+      <link>/EESite/post/empezando-prueba/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/EESite/post/empezando-prueba/</guid>
+      <description>
+
+
+&lt;div id=&#34;introduccion&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Introducción&lt;/h1&gt;
+&lt;p&gt;Aquí se presenta lo que es una prueba de lo que es un primer post en el blog en el que se está mostrando cómo podría funcionar un sitio del área.&lt;/p&gt;
+&lt;p&gt;Aquí se podrán incorporar diversos temas de interés, que pudieran ser del área total o de algún subgrupo en particular o bien incluso de cada uno de los miembros del área en lo individual.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,28 @@
     <link>/EESite/categories/</link>
       <atom:link href="/EESite/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/EESite/img/icon-192.png</url>
       <title>Categories</title>
       <link>/EESite/categories/</link>
     </image>
+    
+    <item>
+      <title>blog</title>
+      <link>/EESite/categories/blog/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/EESite/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>/EESite/categories/text/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/EESite/categories/text/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Demo</title>

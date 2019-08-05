@@ -5,12 +5,20 @@
     <link>/EESite/authors/</link>
       <atom:link href="/EESite/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/EESite/img/icon-192.png</url>
       <title>Authors</title>
       <link>/EESite/authors/</link>
     </image>
+    
+    <item>
+      <title>Julio Sergio Santana</title>
+      <link>/EESite/authors/julio-sergio-santana/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/EESite/authors/julio-sergio-santana/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

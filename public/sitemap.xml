@@ -34,8 +34,61 @@
   </url>
   
   <url>
+    <loc>/EESite/authors/</loc>
+    <lastmod>2019-08-05T09:37:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/EESite/categories/</loc>
+    <lastmod>2019-08-05T09:37:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/EESite/post/empezando-prueba/</loc>
+    <lastmod>2019-08-05T09:37:15-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/EESite/authors/julio-sergio-santana/</loc>
+    <lastmod>2019-08-05T09:37:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/EESite/post/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-05T09:37:15-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/EESite/tags/</loc>
+    <lastmod>2019-08-05T09:37:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/EESite/categories/blog/</loc>
+    <lastmod>2019-08-05T09:37:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/EESite/tags/blog/</loc>
+    <lastmod>2019-08-05T09:37:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/EESite/tags/prueba/</loc>
+    <lastmod>2019-08-05T09:37:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/EESite/categories/text/</loc>
+    <lastmod>2019-08-05T09:37:15-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -60,12 +113,6 @@
   </url>
   
   <url>
-    <loc>/EESite/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/EESite/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -79,12 +126,6 @@
   <url>
     <loc>/EESite/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/EESite/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -151,12 +192,6 @@
   <url>
     <loc>/EESite/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/EESite/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
